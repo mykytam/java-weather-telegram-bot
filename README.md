@@ -13,5 +13,5 @@ Functional weather Telegram Bot @WeatherMorarBot
 
 **Demo**
 
-![](img/demo.png)
+![](img/demos.png)
 
