@@ -1,6 +1,6 @@
 # Java Weather Telegram Bot
 
-Functional weather Telegram Bot
+Functional weather Telegram Bot @WeatherMorarBot
 
 **Technologies used**
 - Telegram API
